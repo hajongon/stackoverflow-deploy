@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/stackoverflow-deploy/static/css/main.ba28bb49.css",
+    "main.js": "/stackoverflow-deploy/static/js/main.84452d28.js",
+    "static/media/Home.png": "/stackoverflow-deploy/static/media/Home.24ebe26a832b5e94a745.png",
+    "static/media/index.cjs": "/stackoverflow-deploy/static/media/index.c05687ef19f5bac24939.cjs",
+    "static/media/team_img.svg": "/stackoverflow-deploy/static/media/team_img.82a6b53b026da01640bf762977128511.svg",
+    "static/media/measure.svg": "/stackoverflow-deploy/static/media/measure.5b719cddd93397948d09345173316799.svg",
+    "static/media/mypage-proflie-post.svg": "/stackoverflow-deploy/static/media/mypage-proflie-post.b3a168612666542a5b1a8ce94fb1ee76.svg",
+    "static/media/ic-earth.svg": "/stackoverflow-deploy/static/media/ic-earth.a6c6dd3d76eabe16a6fdad8f27a4321a.svg",
+    "static/media/start.svg": "/stackoverflow-deploy/static/media/start.3453cde6895163c5d1eac28755a21ab2.svg",
+    "static/media/sre.svg": "/stackoverflow-deploy/static/media/sre.e2edc59a5948ac79a4727dadd2833f9b.svg",
+    "static/media/logo-stackof.svg": "/stackoverflow-deploy/static/media/logo-stackof.881fcb76565213012b97b97b229c653b.svg",
+    "static/media/earn.svg": "/stackoverflow-deploy/static/media/earn.05a8c1971156c990bee698d4502c4671.svg",
+    "static/media/header-question.svg": "/stackoverflow-deploy/static/media/header-question.17e806f8723253145eccb4e631f91177.svg",
+    "static/media/ic-stackoverflow.svg": "/stackoverflow-deploy/static/media/ic-stackoverflow.f4606adccc0fe65e34ae84588e354b4b.svg",
+    "index.html": "/stackoverflow-deploy/index.html",
+    "static/media/search-icon.svg": "/stackoverflow-deploy/static/media/search-icon.f9c7bbf220425958925908c119084368.svg",
+    "static/media/header-trophy.svg": "/stackoverflow-deploy/static/media/header-trophy.8c5b07666913dee123414e53c7c04f1a.svg",
+    "static/media/ic-pencil.svg": "/stackoverflow-deploy/static/media/ic-pencil.162eb78db62b3003c8e6f8c3fcd59d3d.svg",
+    "static/media/header-box.svg": "/stackoverflow-deploy/static/media/header-box.8a564770b1ea00462a30db5656fd6443.svg",
+    "static/media/ic-history.svg": "/stackoverflow-deploy/static/media/ic-history.c0696e5c813a91366c52fbc377d12c87.svg",
+    "static/media/header-talk.svg": "/stackoverflow-deploy/static/media/header-talk.69163dd9336b0fcd2c901cf285f50514.svg",
+    "static/media/book-mark.svg": "/stackoverflow-deploy/static/media/book-mark.f13e6fe2fdf3b66741391abb750c13f8.svg",
+    "static/media/icon_comment_square_.svg": "/stackoverflow-deploy/static/media/icon_comment_square_.e193676a7843799a3cfae4ed901b8bc1.svg",
+    "static/media/vsc-triangle-down.svg": "/stackoverflow-deploy/static/media/vsc-triangle-down.6fdcbf476701cc139384eb7f4f28af81.svg",
+    "static/media/vsc-triangle-up.svg": "/stackoverflow-deploy/static/media/vsc-triangle-up.73f541fa9b456d48d47442730d3ed079.svg",
+    "main.ba28bb49.css.map": "/stackoverflow-deploy/static/css/main.ba28bb49.css.map",
+    "main.84452d28.js.map": "/stackoverflow-deploy/static/js/main.84452d28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba28bb49.css",
+    "static/js/main.84452d28.js"
+  ]
+}
